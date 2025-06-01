@@ -1,8 +1,13 @@
 # EMCT-Final-Project
+
 Friction(less) – Final Project
+
 BSc Electronic Music, Computing and Technology
+
 Goldsmiths, University of London
+
 By: Christopher Lilleorg
+
 Instructed by: Charles Hutchins
 
 ----------------------------------------------------------------------------------------
