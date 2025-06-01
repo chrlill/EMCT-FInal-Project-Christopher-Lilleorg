@@ -64,7 +64,7 @@ Start the Drone2.flac file and set it to play on loop in Max/MSP.
 
 Open the TouchDesigner project.
 
-Set up the StreamDiffusionTD component as per the provided instructions by DotSimulate.
+Set up the StreamDiffusionTD component as per the provided instructions by DotSimulate. Select sd-turbo as the base model and the provided custom LoRa as the fine-tuning model.
 
 Click on the Window operator within the project file. Open the project in Presentation mode. 
 
@@ -83,7 +83,7 @@ ODOT – Developed by Jack Armitage and David Bowden, offering a flexible enviro
 
 TouchDesigner – Created by Derivative, offering a node-based visual programming environment used for real-time interactive multimedia content. https://www.derivative.ca/
 
-StreamDiffusionTD – Custom component by DotSimulate, used to generate AI imagery in real time.
+StreamDiffusionTD – Custom component by DotSimulate, used to generate AI imagery in real time within TouchDesigner. 
 DotSimulate StreamDiffusionTD Component
 
 
