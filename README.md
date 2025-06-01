@@ -47,7 +47,7 @@ Setup Instructions
 
 1. Audio Setup in Max/MSP and TouchDesigner
 -------------------------------------------
-Connect the audio output from Max/MSP to the Audio Device In operator in TouchDesigner using an audio routing software (such as VBAudioMatrix on Windows). 
+Connect the audio output from Max/MSP to the Audio Device In operator in TouchDesigner using an audio routing software (such as [VB-Audio Matrix](https://vb-audio.com/Matrix/) on Windows). 
 
 Set the audio output device in the Audio Device Out operator to hear sound output.
 
