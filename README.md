@@ -2,7 +2,7 @@
 
 Goldsmiths, University of London
 
-Instructed by: Charles Hutchins
+Instructed by Charles Hutchins
 
 Student ID: 33772935
 
