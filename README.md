@@ -40,7 +40,7 @@ Python 3.10.6
 ----------------------------------------------------------------------------------------
 Setup Instructions
 ----------------------------------------------------------------------------------------
-------------------------------------
+
 1. Install Required Software
 ----------------------------
 Install Max/MSP from cycling74.com
@@ -50,18 +50,18 @@ Install FluCoMa and ODOT packages from the Package Manager within Max.
 Install TouchDesigner from derivative.ca.
 
 Install StreamDiffusionTD by DotSimulate (follow the installation guide provided with the component).
-------------------------------------
+
 2. Install CUDA and Python
 --------------------------
 This project requires an NVIDIA graphics card compatible with CUDA 12.8. If needed, install the required CUDA version and Python 3.10.6.
 Make sure you have the necessary drivers installed for your GPU.
-------------------------------------
+
 3. Audio Setup in Max/MSP and TouchDesigner
 -------------------------------------------
 Connect the audio output from Max/MSP to the Audio Device In operator in TouchDesigner using an audio routing software (such as Soundflower on macOS or Jack Audio on Windows/Linux). 
 
 Set the audio output device in the Audio Device Out operator to hear sound output.
-------------------------------------
+
 4. Load and Slice Samples in Max/MSP
 ------------------------------------
 Open the Max/MSP patch and connect the synthesizer to the path of the provided sample folder.
@@ -69,13 +69,13 @@ Open the Max/MSP patch and connect the synthesizer to the path of the provided s
 To load and slice the samples, click on the message box containing the file path.
 
 Start the Drone2.wav file and set it to play on loop in Max/MSP.
-------------------------------------
+
 5. Visual Setup in TouchDesigner
 --------------------------------
 Open the TouchDesigner project.
 
 Set up the StreamDiffusionTD component as per the provided instructions by DotSimulate.
-------------------------------------
+
 6. Interaction
 --------------
 
