@@ -1,10 +1,12 @@
-# Friction(less) - BSc Electronic Music, Computing and Technology final project by Christopher Lilleorg
+# Friction(less) - BSc Electronic Music, Computing and Technology 2025 final project by Christopher Lilleorg
 
-Goldsmiths, University of London
+Institution: Goldsmiths, University of London
 
 Instructed by: Charles Hutchins
 
 Student ID: 33772935
+
+Date: June 2nd, 2025
 
 
 # Project Overview
