@@ -6,17 +6,17 @@ Instructed by: Charles Hutchins
 
 Student ID: 33772935
 
-----------------------------------------------------------------------------------------
-Project Overview
-----------------------------------------------------------------------------------------
+
+# Project Overview
+
 
 Friction(less) is an interactive audio-visual installation that combines live sound synthesis and real-time AI-generated imagery. This project integrates Max/MSP with the FluCoMa and ODOT packages for audio synthesis, and TouchDesigner with the custom StreamDiffusionTD component by DotSimulate for the visuals.
 
 This installation is normally controlled with a touch interface, but the code has been adjusted to be controlled with a mouse for testing purposes.
 
-----------------------------------------------------------------------------------------
-Software & Libraries
-----------------------------------------------------------------------------------------
+
+# Software & Libraries
+
 [Max/MSP](https://cycling74.com)
 
 [FluCoMa](https://cycling74.com/packages/fluidcorpusmanipulation) package for Max/MSP
@@ -29,9 +29,8 @@ Software & Libraries
 
 [SD-Turbo](https://huggingface.co/stabilityai/sd-turbo) as the base diffusion model for StreamDiffusionTD
 
-----------------------------------------------------------------------------------------
-Hardware Requirements
-----------------------------------------------------------------------------------------
+
+# Hardware Requirements
 
 Windows 10 or 11
 
@@ -41,38 +40,38 @@ NVIDIA GPU (for CUDA support)
 
 [Python 3.10.6](https://www.python.org/search/?q=3.10.6&submit=)
 
-----------------------------------------------------------------------------------------
-Setup Instructions
-----------------------------------------------------------------------------------------
 
-1. Audio Setup in Max/MSP and TouchDesigner
--------------------------------------------
+# Setup Instructions
+
+
+## Audio Setup in Max/MSP and TouchDesigner
+
 Connect the audio output from Max/MSP to the Audio Device In operator in TouchDesigner using an audio routing software (such as [VB-Audio Matrix](https://vb-audio.com/Matrix/) on Windows). 
 
 Set the audio output device in the Audio Device Out operator to hear sound output.
 
-2. Load and Slice Samples in Max/MSP
-------------------------------------
+## Load and Slice Samples in Max/MSP
+
 Open the Max/MSP patch and connect the synthesizer to the path of the provided sample folder.
 
 To load and slice the samples, click on the message box containing the file path.
 
 Start the Drone2.wav file and set it to play on loop in Max/MSP.
 
-3. Visual Setup in TouchDesigner
---------------------------------
+## Visual Setup in TouchDesigner
+
 Open the TouchDesigner project.
 
 Set up the StreamDiffusionTD component as per the provided instructions by DotSimulate.
 
-4. Interaction
---------------
+## Interaction
+
 
 Click on the Window operator within the project file. Open the project in Presentation mode. Press 5 on the keyboard to start the introductory sequence and then use your mouse to click within the TouchDesigner window to begin drawing and generating real-time AI imagery and control the synthesiser. 
 
-------------------------------------------------------------------------------------
-Acknowledgements
-------------------------------------------------------------------------------------
+
+# Acknowledgements
+
 
 FluCoMa – Developed by FluCoMa Team, providing a comprehensive framework for computational music analysis and composition. https://www.flucoma.org/
 
@@ -83,8 +82,8 @@ TouchDesigner – Created by Derivative, offering a node-based visual programmin
 StreamDiffusionTD – Custom component by DotSimulate, used to generate AI imagery in real time.
 DotSimulate StreamDiffusionTD Component
 
-------------------------------------------------------------------------------------
-License
-------------------------------------------------------------------------------------
+
+# License
+
 This project is for educational purposes and is not for commercial use. All third-party libraries and components are credited in the acknowledgements section.
 
