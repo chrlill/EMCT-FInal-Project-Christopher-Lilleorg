@@ -12,7 +12,7 @@ Student ID: 33772935
 
 Friction(less) is an interactive audio-visual installation that combines live sound synthesis and real-time AI-generated imagery. This project integrates Max/MSP with the FluCoMa and ODOT packages for audio synthesis, and TouchDesigner with the custom StreamDiffusionTD component by DotSimulate for the visuals.
 
-This installation is normally controlled with a touch interface, but the code for this version has been adjusted to be controlled with a mouse.
+This installation is normally controlled with a touch interface, but the code for this version has been adjusted to enable mouse controls.
 
 
 # Software & Libraries
