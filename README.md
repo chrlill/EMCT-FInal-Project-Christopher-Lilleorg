@@ -64,10 +64,12 @@ Open the TouchDesigner project.
 
 Set up the StreamDiffusionTD component as per the provided instructions by DotSimulate.
 
+Click on the Window operator within the project file. Open the project in Presentation mode. 
+
 ## Interaction
 
 
-Click on the Window operator within the project file. Open the project in Presentation mode. Press 5 on the keyboard to start the introductory sequence and then use your mouse to click within the TouchDesigner window to begin drawing and generating real-time AI imagery and control the synthesiser. 
+Press 5 on the keyboard to start the introductory sequence and then use your mouse to click within the TouchDesigner window to begin drawing and generating real-time AI imagery and control the synthesiser. 
 
 
 # Acknowledgements
