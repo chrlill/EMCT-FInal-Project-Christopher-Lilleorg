@@ -17,17 +17,17 @@ This installation is normally controlled with a touch interface, but the code ha
 ----------------------------------------------------------------------------------------
 Software & Libraries
 ----------------------------------------------------------------------------------------
-Max/MSP
+[Max/MSP](https://cycling74.com)
 
-FluCoMa package for Max/MSP
+[FluCoMa](https://cycling74.com/packages/fluidcorpusmanipulation) package for Max/MSP
 
-ODOT package for Max/MSP
+[ODOT](https://cycling74.com/packages/odot) package for Max/MSP
 
-TouchDesigner
+[TouchDesigner](https://derivative.ca/)
 
-StreamDiffusionTD custom component by DotSimulate (Requires NVIDIA GPU, CUDA 12.8, and Python 3.10.6)
+[StreamDiffusionTD](https://www.patreon.com/posts/streamdiffusiont-122151622) custom component by DotSimulate (Requires NVIDIA GPU, CUDA 12.8, and Python 3.10.6)
 
-SD-Turbo as the base diffusion model for StreamDiffusionTD
+[SD-Turbo](https://huggingface.co/stabilityai/sd-turbo) as the base diffusion model for StreamDiffusionTD
 
 ----------------------------------------------------------------------------------------
 Hardware Requirements
