@@ -58,7 +58,7 @@ Make sure you have the necessary drivers installed for your GPU.
 
 3. Audio Setup in Max/MSP and TouchDesigner
 -------------------------------------------
-Connect the audio output from Max/MSP to the Audio Device In operator in TouchDesigner using an audio routing software (such as Soundflower on macOS or Jack Audio on Windows/Linux). 
+Connect the audio output from Max/MSP to the Audio Device In operator in TouchDesigner using an audio routing software (such as VBAudioMatrix on Windows). 
 
 Set the audio output device in the Audio Device Out operator to hear sound output.
 
