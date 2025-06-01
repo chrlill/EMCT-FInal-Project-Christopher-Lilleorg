@@ -33,6 +33,8 @@ Software & Libraries
 Hardware Requirements
 ----------------------------------------------------------------------------------------
 
+Windows 10 or 11
+
 NVIDIA GPU (for CUDA support)
 
 [CUDA 12.8](https://developer.nvidia.com/cuda-12-8-0-download-archive)
