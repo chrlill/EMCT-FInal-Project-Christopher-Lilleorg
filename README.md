@@ -23,11 +23,11 @@ FluCoMa package for Max/MSP
 
 ODOT package for Max/MSP
 
-TouchDesigne
+TouchDesigner
 
 StreamDiffusionTD custom component by DotSimulate (Requires NVIDIA GPU, CUDA 12.8, and Python 3.10.6)
 
-SD-Turbo
+SD-Turbo as the base diffusion model for StreamDiffusionTD
 
 ----------------------------------------------------------------------------------------
 Hardware Requirements
