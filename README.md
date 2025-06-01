@@ -69,7 +69,7 @@ Click on the Window operator within the project file. Open the project in Presen
 ## Interaction
 
 
-Press 5 on the keyboard to start the introductory sequence and then use your mouse to click within the TouchDesigner window to begin drawing and generating real-time AI imagery and control the synthesiser. 
+Press 5 on the keyboard to start the introductory sequence and then use your mouse to click within the TouchDesigner window to begin drawing and generating real-time AI imagery and controlling the synthesiser. 
 
 
 # Acknowledgements
