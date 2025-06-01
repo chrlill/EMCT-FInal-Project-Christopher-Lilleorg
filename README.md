@@ -29,6 +29,8 @@ This installation is normally controlled with a touch interface, but the code ha
 
 [SD-Turbo](https://huggingface.co/stabilityai/sd-turbo) as the base diffusion model for StreamDiffusionTD
 
+[Custom LoRa](https://drive.google.com/file/d/1-4jrxpGijo_yXnG-TMdL8scdss4ZPMww/view?usp=sharing) as the LoRa fine-tuning model for StreamDiffusionTD
+
 
 # Hardware Requirements
 
@@ -56,7 +58,7 @@ Open the Max/MSP patch and connect the synthesizer to the path of the provided s
 
 To load and slice the samples, click on the message box containing the file path.
 
-Start the Drone2.wav file and set it to play on loop in Max/MSP.
+Start the Drone2.flac file and set it to play on loop in Max/MSP.
 
 ## Visual Setup in TouchDesigner
 
