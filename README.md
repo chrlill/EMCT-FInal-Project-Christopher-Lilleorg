@@ -1,4 +1,4 @@
-# Friction(less) - BSc Electronic Music, Computing and Technology 2025 final project by Christopher Lilleorg
+# Friction(less) - BSc Electronic Music, Computing and Technology 2025 - Final Project by Christopher Lilleorg
 
 Goldsmiths, University of London
 
