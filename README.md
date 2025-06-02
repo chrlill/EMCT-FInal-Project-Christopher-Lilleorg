@@ -33,17 +33,17 @@ This installation is normally controlled with a touchscreen interface, but the c
 
 [camroll_LoRa](https://drive.google.com/file/d/1-4jrxpGijo_yXnG-TMdL8scdss4ZPMww/view?usp=sharing) as the custom-trained LoRa fine-tuning model for StreamDiffusionTD
 
+[CUDA 12.8](https://developer.nvidia.com/cuda-12-8-0-download-archive)
+
+[Python 3.10.6](https://www.python.org/search/?q=3.10.6&submit=)
+
+
 
 # Hardware Requirements
 
 Windows 10 or 11
 
 NVIDIA GPU (for CUDA support)
-
-[CUDA 12.8](https://developer.nvidia.com/cuda-12-8-0-download-archive)
-
-[Python 3.10.6](https://www.python.org/search/?q=3.10.6&submit=)
-
 
 # Setup Instructions
 
