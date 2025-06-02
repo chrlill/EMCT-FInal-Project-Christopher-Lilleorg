@@ -31,7 +31,7 @@ This installation is normally controlled with a touchscreen interface, but the c
 
 [SD-Turbo](https://huggingface.co/stabilityai/sd-turbo) as the base diffusion model for StreamDiffusionTD
 
-[camroll_LoRa](https://drive.google.com/file/d/1-4jrxpGijo_yXnG-TMdL8scdss4ZPMww/view?usp=sharing) as the custom-trained LoRa fine-tuning model trained on my personal iPhone camera roll photos for StreamDiffusionTD
+[camroll_LoRa](https://drive.google.com/file/d/1-4jrxpGijo_yXnG-TMdL8scdss4ZPMww/view?usp=sharing) as the custom-trained LoRa fine-tuning model for StreamDiffusionTD
 
 
 # Hardware Requirements
